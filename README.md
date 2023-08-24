@@ -1,5 +1,4 @@
 # Laser_Defender
-Laser Defender
 Introduction
 Welcome to Laser Defender! Engage in intense space combat, piloting your ship against waves of formidable enemies in this vibrant shooter, crafted in Unity. While your ship moves forward, your task is to dodge, shoot, and survive. Ready to defend the cosmos?
 
